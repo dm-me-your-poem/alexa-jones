@@ -1,5 +1,5 @@
-![Logo](logo.png)
-
 # Alexa Jones
 
-My dumb lil chat bot
+![Logo](logo.png)
+
+Turning the frogs gay
